@@ -11,6 +11,8 @@ I used Bootstrap 4 to visualize the results and the interface of the page. I hav
  - Search - a class that realizes the search through the search form.
  - MyXMLReader - is a class through which the script goes through the directory tree and reads the information from the XML files.
 
+Also the database file(test_task_db.sql) is place in db folder.
+
 ---
 Two of the conditions of the task that I wanted to have more time to be able to accomplish them are:
  - 1.2. If a record from specified file and subfolder already exists PHP script has to update the record and not to insert it as a new one.
