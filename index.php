@@ -1,5 +1,7 @@
 <?php
 
+error_reporting(0);
+
 require_once "app/Connection.php";
 require_once "app/AuthorsBooks.php";
 require_once "app/Search.php";
