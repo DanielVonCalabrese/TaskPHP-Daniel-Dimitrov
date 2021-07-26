@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<books>
+	<book>
+	    <author>Isak Azimov</author>
+	    <name>Asimov's Guide to Shakespeare</name>
+	</book>
+	<book>
+	    <author>Edgar Allan Poe</author>
+	    <name>The Raven</name>
+	</book>
+	<book>
+	    <author></author>
+	    <name>Annabel Lee</name>
+	</book>
+</books>

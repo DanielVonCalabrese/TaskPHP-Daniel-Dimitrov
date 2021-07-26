@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<books>
+	<book>
+	    <author>Isak Azimov</author>
+	    <name>End of spirit</name>
+	</book>
+	<book>
+	    <author>H. P. Lovecraft</author>
+	    <name>The Call of Cthulhu</name>
+	</book>
+	<book>
+	    <author>Edgar Allan Poe</author>
+	    <name>The Fall of the House of Usher</name>
+	</book>
+	<book>
+	    <author>William Shakespeare</author>
+	    <name>The Tempest</name>
+	</book>
+	<book>
+	    <author>ㅁ ㅂ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ</author>
+	    <name>ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ</name>
+	</book>
+	<book>
+	    <author>ルビ ンツア ウェブア ふべからず セシビリテ</author>
+	    <name>びそのマ を始めてみよう サイト作成のヒ</name>
+	</book>
+	<book>
+	    <author>Димитър Талев</author>
+	    <name>Железният светилник</name>
+	</book>
+</books>

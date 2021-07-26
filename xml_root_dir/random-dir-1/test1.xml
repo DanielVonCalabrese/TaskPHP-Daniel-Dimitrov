@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<books>
+	<book>
+	    <author>William Shakespeare</author>
+	    <name>A Midsummer Night's Dream</name>
+	</book>
+	<book>
+	    <author>Edgar Allan Poe</author>
+	    <name>The Black Cat</name>
+	</book>
+</books>

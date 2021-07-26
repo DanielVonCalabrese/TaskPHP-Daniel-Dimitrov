@@ -1,0 +1,17 @@
+--- Description ---
+The application reads information from XML files in folders located in the xml_root_dir folder and saves it in a PostgreSQL database, after which the information from the database is visualized. At the top right of the interface I made a search form. The form allows you to search only by author name, and the result is displayed on the same page.
+
+The main script(index.php) can be executed directly from the command line, as well as through Cron Job.
+
+XML files contain entries in Cyrillic, Korean, and Japanese.
+
+I used Bootstrap 4 to visualize the results and the interface of the page. I have implemented the project through OOP with several classes located in the app folder:
+ - Connection - database connection class implementing Singleton design pattern.
+ - AuthorsBooks - is a class that handles database queries.
+ - Search - a class that realizes the search through the search form.
+ - MyXMLReader - is a class through which the script goes through the directory tree and reads the information from the XML files.
+
+---
+Two of the conditions of the task that I wanted to have more time to be able to accomplish them are:
+ - 1.2. If a record from specified file and subfolder already exists PHP script has to update the record and not to insert it as a new one.
+ - 3. Result design requirements: rows should slide from left to right one after another with some small animated delay.

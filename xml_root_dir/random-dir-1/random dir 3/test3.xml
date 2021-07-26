@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<books>
+	<book>
+	    <author>Edgar Allan Poe</author>
+	    <name>The Masque of the Red Death</name>
+	</book>
+	<book>
+	    <author>Jules Verne</author>
+	    <name>Journey to the Center of the Earth</name>
+	</book>
+	<book>
+	    <author>H. P. Lovecraft</author>
+	    <name></name>
+	</book>
+</books>
